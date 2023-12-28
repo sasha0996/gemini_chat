@@ -13,9 +13,10 @@
    2.可能存在闪退或其他异常情况，尝试重启App一般可以解决，但发生错误之前的对话不会被保存。
 
 App截图：
-<img src="https://github.com/sasha0996/gemini_chat/raw/main/assets/112504162/5a3b19fd-697b-4735-a1a4-c16e5a2cca2c.jpg" width="100">
 
-<img src="https://github.com/sasha0996/gemini_chat/raw/main/assets/112504162/e24c6a7b-b824-45dd-90c7-5984b690a291.jpg" width="100">
 
-<img src="https://github.com/sasha0996/gemini_chat/raw/main/assets/112504162/2472d94f-b640-4278-a9e9-a97d613589bd.jpg" width="100">
+![IMG_5267](https://github.com/sasha0996/gemini_chat/assets/112504162/128b71df-c24a-401d-9365-9de50f89ddfc)
 
+![IMG_5268](https://github.com/sasha0996/gemini_chat/assets/112504162/fde5650c-55aa-4400-b408-c14a0db6d5b1)
+
+![IMG_5269](https://github.com/sasha0996/gemini_chat/assets/112504162/50029aa6-ae43-4ca3-906d-bc503e3fd719)
